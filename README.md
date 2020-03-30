@@ -1,3 +1,8 @@
+# Pand-Aid UI
+
+UI for the Pand-Aid project
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
